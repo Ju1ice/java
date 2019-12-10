@@ -1,0 +1,21 @@
+insert into BATCH (BATCH_ID, BATCH_NAME, TRAINER_NAME, START_DATE, END_DATE) values (1, '1GYS3DEF6CR485792', 'Bennie Pordall', '2019-11-23', '2019-05-05');
+insert into BATCH (BATCH_ID, BATCH_NAME, TRAINER_NAME, START_DATE, END_DATE) values (2, 'JH4CU2E61AC939182', 'Waldon Staneland', '2019-09-07', '2019-03-07');
+insert into BATCH (BATCH_ID, BATCH_NAME, TRAINER_NAME, START_DATE, END_DATE) values (3, '1D7RE3BK6BS412588', 'Xavier Saintpierre', '2019-10-22', '2019-08-01');
+insert into BATCH (BATCH_ID, BATCH_NAME, TRAINER_NAME, START_DATE, END_DATE) values (4, 'JHMZF1C69CS819804', 'Alard Peasgood', '2019-02-08', '2019-04-26');
+insert into BATCH (BATCH_ID, BATCH_NAME, TRAINER_NAME, START_DATE, END_DATE) values (5, '1N6AD0CU3FN459703', 'Wells Petticrow', '2019-04-21', '2019-06-15');
+
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (1, 'Leanna Birkwood', 'Telecommunications Equipment', 1);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (2, 'Obidiah Chessel', 'Major Pharmaceuticals', 2);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (3, 'Francisco Kemster', 'Real Estate Investment Trusts', 3);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (4, 'Robin Lownie', 'Major Banks', 4);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (5, 'Fredric Wilshin', 'n/a', 5);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (6, 'Ursola Arendt', 'Farming/Seeds/Milling', 1);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (7, 'Dolph Maulin', 'Clothing/Shoe/Accessory Stores', 2);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (8, 'Theresita Cullabine', 'n/a', 3);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (9, 'Benton McIlvoray', 'Commercial Banks', 4);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (10, 'Edy Brandenburg', 'n/a', 5);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (11, 'Gearalt Cheese', 'Telecommunications Equipment', 1);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (12, 'Tessa Philipsson', 'n/a', 2);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (13, 'Lorrie Marshall', 'Other Specialty Stores', 3);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (14, 'Maye Crady', 'Business Services', 4);
+insert into TRAINEE (TRAINEE_ID, TRAINEE_NAME, MAJOR, BATCH_ID) values (15, 'Xylina Dukelow', 'Food Distributors', 5);
